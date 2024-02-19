@@ -1,16 +1,33 @@
-### Hi there 👋
 
-<!--
-**sunitabisht22/sunitabisht22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Sunita Bisht, a Data Science Enthusiast!
+Data Analyst👨‍💼 | Python 🐍 | SQL💹 | PowerBI 📊| Numpy | Pandas
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+👋 I am a data science enthusiast with a strong foundation in data analytics techniques and methodologies.
+
+👩‍💻 🔭 I’m currently working on SQL,Power BI ,Python,Statistics.
+
+🧠 I'm currently learning Data Structures and Algorithms.
+
+💬 Ask me about Data analysis and Visualization.
+
+📫 How to reach me bishtsunita2002@gmail.com.
+
+📄 This is my Updated Resume https://drive.google.com/file/d/1RlT7CQWYaZ8JuDPDrwbAY9hxmEo_kv-d/view?usp=sharing.
+
+⚡️ Fun fact Reading Books, Drawing and Painting.
+
+
+## 🔗 Connect with me:
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunitabisht/)
+
+
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
+
+## 🛠 Skills
+Data Analytics👨‍💼 | Python 🐍 | SQL💹 | PowerBI 📊| Numpy | Pandas |Open cv | Machine Learning 
+
+
