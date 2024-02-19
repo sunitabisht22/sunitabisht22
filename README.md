@@ -1,5 +1,5 @@
  # Hi 👋, I'm Sunita Bisht, a Data Science Enthusiast!
- Data Analyst👨‍💼 | Python 🐍 | SQL💹 | PowerBI 📊| Numpy | Pandas
+ Data Analytics👨‍💼 | Python 🐍 | SQL💹 | PowerBI 📊| Numpy | Pandas
 
 
 👋 I am a data science enthusiast with a strong foundation in data analytics techniques and methodologies.
