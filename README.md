@@ -12,8 +12,6 @@
 
 📫 How to reach me bishtsunita2002@gmail.com.
 
-📄 This is my Updated Resume https://drive.google.com/file/d/1RlT7CQWYaZ8JuDPDrwbAY9hxmEo_kv-d/view?usp=sharing.
-
 ⚡️ Fun fact Reading Books, Drawing and Painting.
 
 
