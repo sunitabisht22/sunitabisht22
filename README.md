@@ -4,11 +4,11 @@
 
 👋 I am a data science enthusiast with a strong foundation in data analytics techniques and methodologies.
 
-👩‍💻 I’m currently working on SQL,Power BI ,Python,Statistics.
+👩‍💻 I’m currently working on SQL,Power BI ,Python,Statistics, Computer Vision,Image processing and Machine learning. 
 
 🧠 I'm currently learning Data Structures and Algorithms.
 
-💬 Ask me about Data analysis and Visualization.
+💬 Ask me about Data analysis, Visualization, Machine learning and algorithms. 
 
 📫 How to reach me bishtsunita2002@gmail.com.
 
